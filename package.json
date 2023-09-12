@@ -22,7 +22,7 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "@parcel/transformer-webmanifest": "^2.4.1",
-    "parcel": "^2.0.1",
+    "parcel": "^2.9.3",
     "prettier": "^2.4.1"
   },
   "dependencies": {
